@@ -1,9 +1,9 @@
 {
     "SESSION_FILE_NAME": "string_session_bot",
-    "API_ID": ,
-    "API_HASH": "",
-    "BOT_TOKEN": "",
-    "MONGO_DB_URI": [""],
+    "API_ID": "10098309",
+    "API_HASH": "aaacac243dddc9f0433c89cab8efe323",
+    "BOT_TOKEN": "5457862323:AAGwchvXH8P9YzFWIVczKnANvUFibNoF4u0",
+    "MONGO_DB_URI": ["mongodb+srv://codexun:TeamCodexun07@codexun.egmx5.mongodb.net/?retryWrites=true&w=majority"],
     "TOTAL_TIMEOUT": 120,
     "BY_DEFAULT_LANGS": ["ENGLISH"],
     "HELP_SUPPORT_GROUP": "@HelpSupportChat",
